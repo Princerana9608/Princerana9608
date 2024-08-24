@@ -111,7 +111,7 @@ This bot is intended for educational purposes only. The misuse of this bot may r
 
 ---
 
-**Note**: Replace `YOUR_BOT_TOKEN` and `YOUR_ADMIN_ID` with your actual bot token and admin user ID before running the bot. Ensure that you comply with all legal regulations and use this bot responsibly.
+**Note**: Replace `7280281717:AAE_qLF4lUdOr7klgSxQyFoT6-Hkz_xrXWw` and `BR0K3N_79` with your actual bot token and admin user ID before running the bot. Ensure that you comply with all legal regulations and use this bot responsibly.
 
 ## Contributing
 
