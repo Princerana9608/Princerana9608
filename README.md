@@ -47,10 +47,10 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
    bot = telebot.TeleBot('7280281717:AAE_qLF4lUdOr7klgSxQyFoT6-Hkz_xrXWw')
    ```
 
-3. Add your admin user IDs in the `9608960498` list:
+3. Add your admin user IDs in the `BR0K3N_79` list:
 
    ```python
-   admin_id = ["9608960498"]
+   admin_id = ["BR0K3N_79"]
    ```
 
 ### Usage
